@@ -6,4 +6,4 @@ using the
 2.for in loop
 3. for of loop
 4. for each loop
-   
+   this is all loop using this format there json.js file.
